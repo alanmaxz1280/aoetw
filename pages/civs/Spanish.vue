@@ -34,7 +34,7 @@
             擁有完整的僧侶、<nuxt-link to="/building/Dock">碼頭</nuxt-link
             >、<nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link
             >科技可以研發，但<nuxt-link to="/units/Archer_Units">弓兵</nuxt-link
-            >卻<nuxt-link to="/units/Chu_Ko_Nu">連弩兵</nuxt-link
+            >卻連<nuxt-link to="/units/Crossbowman">弩兵</nuxt-link
             >都無法升上，且<nuxt-link to="/units/Siege_Weapons"
               >攻城器</nuxt-link
             >方面也較為貧弱，對此為了在<nuxt-link to="/techs/age/Imperial_Age"
